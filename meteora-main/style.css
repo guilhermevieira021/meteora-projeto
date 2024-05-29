@@ -1,0 +1,37 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.navegacao {
+    color:white;
+}
+
+.button-nav{
+    color:white;
+    border-color: white;
+    
+}
+
+.text-secundary {
+    color: white;
+}
+
+.title-facilidades {
+    color: white;
+}
+
+.green {
+    color:#daff01
+}
+
+.white {
+    color:white
+}
+
+.purple{
+    background-color: #9353ff;
+}
